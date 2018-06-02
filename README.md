@@ -10,6 +10,15 @@ Pre-requisites
 - Android Build Tools v22.0.1
 - Android Support Repository v22.1.1
 
+_You can also try to change the gradle settings to Gradle version 4.4 and 
+Android Plugin Version 3.1.2_
+
+_Clean the project, then sync the gradle project again_
+
+_When switching between the git branches, remember to:_
+_1) Clean the project (Build --> Clean project)_
+_2) Resync and rebuild the project_
+
 Getting Started
 ---------------
 
